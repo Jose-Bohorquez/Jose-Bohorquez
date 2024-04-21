@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples Tecnologías<br><br>Resumen Profesional:<br><br>Técnico en Sistemas y Desarrollador Full-Stack con más de 4 años de experiencia en el diseño, desarrollo e implementación de software. Experto en lenguajes de programación como HTML, CSS, JavaScript, PHP, Java, Python, Go, C#, Dart y Flutter. Sólidas habilidades en la recolección de información, análisis de requerimientos, pruebas unitarias, despliegue y documentación de software. Altamente motivado, con capacidad de autoaprendizaje y pasión por mantenerse a la vanguardia de las nuevas tecnologías
+# 💫 Acerca de mi:
+Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples TecnologíasResumen Profesional:<br>Técnico en Sistemas y Desarrollador Full-Stack con más de 4 años de experiencia en el diseño, desarrollo e implementación de software. Experto en lenguajes de programación como HTML, CSS, JavaScript, PHP, Java, Python, Go, C#, Dart y Flutter. Sólidas habilidades en la recolección de información, análisis de requerimientos, pruebas unitarias, despliegue y documentación de software. Altamente motivado, con capacidad de autoaprendizaje y pasión por mantenerse a la vanguardia de las nuevas tecnologías
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-bohorquez-full-stack-middle-software-developer-php/) 
