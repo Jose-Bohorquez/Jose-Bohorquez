@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples Tecnologías
+Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples Tecnologías <br><br>
 #Resumen Profesional:<br><br>
 Técnico en Sistemas y Desarrollador Full-Stack con más de 4 años de experiencia en el diseño, desarrollo e implementación de software. Experto en lenguajes de programación como HTML, CSS, JavaScript, PHP, Java, Python, Go, C#, Dart y Flutter. Sólidas habilidades en la recolección de información, análisis de requerimientos, pruebas unitarias, despliegue y documentación de software. Altamente motivado, con capacidad de autoaprendizaje y pasión por mantenerse a la vanguardia de las nuevas tecnologías
 
