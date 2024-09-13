@@ -3,7 +3,7 @@ Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples
 
 # Resumen Profesional:
 ¡Hola! 👋<br><br>Mi nombre es Jose Bohórquez, un apasionado desarrollador Full-Stack y Técnico en Sistemas con más de 4 años de experiencia en el diseño, desarrollo e implementación de software. Actualmente me encuentro trabajando en mis proyectos personales los fines de semana, los cuales puedes revisar en los siguientes enlaces cuando estén disponibles:<br>
-<br><a href="dev-and-test.online">dev-and-test.online</a>
+<br><a href="https://dev-and-test.online" target="_blank">dev-and-test.online</a>
 <br>code2355.online
 <br>servitech.website
 <br>tacoscapital.online
