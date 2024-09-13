@@ -11,9 +11,8 @@ Desarrollador Full-Stack | Apasionado por la Innovación | Experto en Múltiples
 <br>
 <br>
 <a href="https://tacoscapital.online" target="_blank">tacoscapital</a>
-<br>
 
-<br><br>Estoy enfocado en colaborar en proyectos relacionados con IA, desarrollo de aplicaciones y la investigación de la visión óptica y sus aplicaciones. Además, estoy ampliando mis conocimientos en desarrollo de negocios.<br><br>Si necesitas ayuda o apoyo en cualquier proyecto, ¡no dudes en preguntar! Me encanta asumir nuevos retos y creo firmemente que "si puedes imaginarlo, puedes programarlo".<br><br>Mis habilidades técnicas incluyen:<br><br>Lenguajes de programación: HTML, CSS, JavaScript, PHP, Java, Python, Go, C#, Dart, Flutter.<br>Experiencia en recolección de requisitos, pruebas unitarias, despliegue y documentación de software.<br>Estoy altamente motivado, autodidacta y apasionado por estar al tanto de las últimas tecnologías.<br><br>¡Espero con interés contribuir y aprender en proyectos emocionantes!<br><br>
+<br>Estoy enfocado en colaborar en proyectos relacionados con IA, desarrollo de aplicaciones y la investigación de la visión óptica y sus aplicaciones. Además, estoy ampliando mis conocimientos en desarrollo de negocios.<br><br>Si necesitas ayuda o apoyo en cualquier proyecto, ¡no dudes en preguntar! Me encanta asumir nuevos retos y creo firmemente que "si puedes imaginarlo, puedes programarlo".<br><br>Mis habilidades técnicas incluyen:<br><br>Lenguajes de programación: HTML, CSS, JavaScript, PHP, Java, Python, Go, C#, Dart, Flutter.<br>Experiencia en recolección de requisitos, pruebas unitarias, despliegue y documentación de software.<br>Estoy altamente motivado, autodidacta y apasionado por estar al tanto de las últimas tecnologías.<br><br>¡Espero con interés contribuir y aprender en proyectos emocionantes!<br><br>
 
 
 ## 🌐 Redes Sociales:
