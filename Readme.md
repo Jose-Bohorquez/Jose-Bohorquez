@@ -2,7 +2,7 @@
 **Desarrollador Full-Stack Middle** | **Especialista en Automatización** | **Experto en Cloud Computing** 🚀
 
 ## 🎯 Resumen Profesional:
-¡Hola! 👋 Soy **Jose Julio Bohórquez Delgado**, un desarrollador Full-Stack Middle con **más de 4 años de experiencia** especializado en el diseño, desarrollo e implementación de soluciones de software innovadoras y de alta calidad.
+¡Hola! 👋 Soy **Jose**, un desarrollador Full-Stack Middle con **más de 5 años de experiencia** especializado en el diseño, desarrollo e implementación de soluciones de software innovadoras y de alta calidad.
 
 ### 🔥 Logros Destacados:
 - 🤖 **Automatización Avanzada**: Desarrollo de bots digitales integrados con WhatsApp y Genesys Cloud que redujeron significativamente el volumen de tickets en GLPI
@@ -12,11 +12,12 @@
 - ☁️ **Cloud Computing**: Administración completa de servidores Linux (on-premise y AWS) con configuración de servicios críticos
 
 ### 🎓 Certificaciones y Educación:
+- 📚 **Estudiante de Ingeniería de Sistemas** - Universidad del Tolima (En curso - 2029)
+- 🛠️ **Tecnólogo ADSI** - SENA (2026)
 - 🔐 **Técnico en Ciberseguridad** - Google/Coursera (2024)
 - 💻 **Técnico en Programación de Software** - SENA (2024)
 - 🎯 **Bootcamp Oracle Next Education + Alura Latam** (2023)
-- 📚 **Estudiante de Ingeniería de Sistemas** - Universidad del Tolima (En curso - 2029)
-- 🛠️ **Tecnólogo ADSI** - SENA (2026)
+
 
 ### 🚀 Proyectos Actuales:
 Estoy trabajando en proyectos innovadores que estarán disponibles próximamente:
