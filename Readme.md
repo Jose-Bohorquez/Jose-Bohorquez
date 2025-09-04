@@ -1,111 +1,330 @@
-# 💫 Acerca de mí:
-**Desarrollador Full-Stack Middle** | **Especialista en Automatización** | **Experto en Cloud Computing** 🚀
-
-## 🎯 Resumen Profesional:
-¡Hola! 👋 Soy **Jose**, un desarrollador Full-Stack Middle con **más de 5 años de experiencia** especializado en el diseño, desarrollo e implementación de soluciones de software innovadoras y de alta calidad.
-
-### 🔥 Logros Destacados:
-- 🤖 **Automatización Avanzada**: Desarrollo de bots digitales integrados con WhatsApp y Genesys Cloud que redujeron significativamente el volumen de tickets en GLPI
-- 📈 **Optimización de Rendimiento**: Reducción del tiempo de carga en un 30% y aumento del tráfico web en un 150% mediante SEO
-- 🏗️ **Arquitectura Escalable**: Creación de 10+ aplicaciones escalables desde cero y desarrollo de 35+ sitios web para entidades gubernamentales
-- 👥 **Liderazgo Técnico**: Liderazgo de equipos de 5 desarrolladores con aumento de productividad del 30%
-- ☁️ **Cloud Computing**: Administración completa de servidores Linux (on-premise y AWS) con configuración de servicios críticos
-
-### 🎓 Certificaciones y Educación:
-- 📚 **Estudiante de Ingeniería de Sistemas** - Universidad del Tolima (En curso - 2029)
-- 🛠️ **Tecnólogo ADSI** - SENA (2026)
-- 🔐 **Técnico en Ciberseguridad** - Google/Coursera (2024)
-- 💻 **Técnico en Programación de Software** - SENA (2024)
-- 🎯 **Bootcamp Oracle Next Education + Alura Latam** (2023)
-
-
-### 🚀 Proyectos Actuales:
-Estoy trabajando en proyectos innovadores que estarán disponibles próximamente:
-
-<a href="https://code2355.online" target="_blank">🔗 code2355</a> | 
-<a href="https://servitech.website" target="_blank">🔗 servitech</a> | 
-<a href="https://tacoscapital.online" target="_blank">🔗 tacoscapital</a>
-
-### 🎯 Áreas de Especialización:
-- **Automatización de Procesos**: Python, Selenium, BeautifulSoup, Pandas
-- **Desarrollo Web Full-Stack**: Laravel, React, Node.js, Vue.js
-- **Cloud & DevOps**: AWS, Azure, GCP, Docker, Kubernetes
-- **Bases de Datos**: PostgreSQL, MySQL, MongoDB, MariaDB
-- **Metodologías Ágiles**: Scrum, Kanban
-- **Análisis de Código**: SonarQube para calidad y seguridad
-
-### 💼 Experiencia Profesional Actual:
-**Desarrollador de Software** en **Alianza - Servitel** (Nov 2024 - Actualidad)
-- Desarrollo de soluciones a medida para diferentes áreas del negocio
-- Integración de sistemas con Active Directory, GLPI y Moodle
-- Implementación de prácticas de desarrollo seguro
-
----
-
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-bohorquez-full-stack-middle-software-developer-php/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Jose-Bohorquez) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://jose-bohorquez.github.io/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josejbohorquezd@gmail.com)
-
-## 💻 Stack Tecnológico Principal:
-
-### 🔧 Lenguajes de Programación:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### ⚙️ Backend:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### ☁️ Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🗄️ Bases de Datos:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### 🛠️ Herramientas y Automatización:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub:
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseBohorquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# 🚀 Jose Julio Bohórquez
+### Full-Stack Developer | Cloud Architect | AI Automation Specialist
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoseBohorquez&theme=dark&hide_border=false)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+5%2B+Years+Experience;Cloud+%26+DevOps+Specialist;AI+%26+Automation+Expert;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBohorquez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Profile Views](https://komarev.com/ghpvc/?username=JoseBohorquez&color=00d9ff&style=for-the-badge)](https://github.com/JoseBohorquez)
+[![GitHub followers](https://img.shields.io/github/followers/JoseBohorquez?style=for-the-badge&color=00d9ff)](https://github.com/JoseBohorquez)
+[![GitHub stars](https://img.shields.io/github/stars/JoseBohorquez?style=for-the-badge&color=00d9ff)](https://github.com/JoseBohorquez)
 
 </div>
 
-## 🏆 Logros y Trofeos:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JoseBohorquez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 🎯 Professional Summary
+
+> **Innovative Full-Stack Developer** with **5+ years** of experience specializing in **AI automation**, **cloud architecture**, and **scalable web solutions**. Passionate about transforming business processes through intelligent automation and cutting-edge technology.
+
+<div align="center">
+
+| 🎯 **Focus Areas** | 📊 **Impact** | 🚀 **Expertise** |
+|:--:|:--:|:--:|
+| AI & Automation | 40% Ticket Reduction | 5+ Years Experience |
+| Cloud Architecture | 35+ Websites Built | Multi-Cloud Certified |
+| Team Leadership | 30% Productivity Boost | Agile Methodologies |
+
+</div>
 
 ---
 
-## 📈 Contribuciones:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseBohorquez&theme=react-dark)
+## 🏆 Key Achievements & Impact
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🤖 AI Automation] --> B[40% Ticket Reduction]
+    C[☁️ Cloud Solutions] --> D[35+ Websites Deployed]
+    E[👥 Team Leadership] --> F[30% Productivity Increase]
+    G[🏗️ Architecture] --> H[10+ Enterprise Apps]
+```
+
+</div>
+
+### 🎯 **Business Impact Highlights**
+- 🤖 **AI-Powered Automation**: Developed conversational bots with **Genesys Cloud**, **WhatsApp**, and **VAPI AI**, achieving **40% reduction** in GLPI tickets
+- 📊 **Process Optimization**: Automated workflows using **n8n**, **Make**, and **Python**, integrated with **Active Directory** and **Moodle**
+- 🏗️ **Scalable Architecture**: Delivered **10+ enterprise applications** and **35+ websites** for corporate and government clients
+- ☁️ **Cloud Excellence**: Managed **Linux servers**, **AWS**, **Azure**, and **GCP** with **Docker** and **Kubernetes** deployments
+- 👥 **Technical Leadership**: Led teams of 5 developers, achieving **+30% productivity** through agile methodologies
 
 ---
 
-## 🎯 Objetivos 2024-2025:
-- 🤖 Profundizar en **Inteligencia Artificial** y **Machine Learning**
-- 🔍 Investigación en **Visión por Computadora** y sus aplicaciones
-- 📱 Desarrollo de aplicaciones móviles con **Flutter**
-- 🌐 Expansión en **Web3** y tecnologías blockchain
-- 📊 Especialización en **Data Science** y **Big Data**
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| 🎓 **Degree/Certification** | 🏫 **Institution** | 📅 **Year** | 🏆 **Status** |
+|:--|:--|:--:|:--:|
+| **Systems Engineering** | Universidad del Tolima | 2029 | 🔄 In Progress |
+| **Software Development Technology** | SENA | 2026 | 🔄 In Progress |
+| **Software Programming Technician** | SENA | 2024 | ✅ Completed |
+| **Cybersecurity Specialist** | Google/Coursera | 2024 | ✅ Certified |
+| **Oracle Next Education Bootcamp** | Alura Latam | 2023 | ✅ Completed |
+| **Genesys Cloud Professional** | Genesys | 2024 | ✅ Certified |
+
+</div>
 
 ---
 
-## 💰 Apoya mi trabajo:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/josebohorquez) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yosefstrong) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/josebohorquez)
+## 💼 Current Role & Responsibilities
+
+<div align="center">
+
+### 🏢 **Software Developer** @ *Alianza - Servitel*
+**📅 November 2024 - Present**
+
+</div>
+
+```yaml
+Role_Focus:
+  - Custom_Solutions: "Multi-department business solutions"
+  - Automation: "n8n & Python workflow automation"
+  - Integration: "Active Directory, GLPI, Moodle systems"
+  - Security: "Secure development practices with SonarQube"
+  - Deployment: "Cloud infrastructure management"
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌐 **Project** | 🔗 **Link** | 📋 **Description** | 🛠️ **Tech Stack** |
+|:--|:--:|:--|:--|
+| **Code2355** | [🔗 Visit](https://code2355.online) | Development Portfolio & Services | React, Node.js, AWS |
+| **Servitech** | [🔗 Visit](https://servitech.website) | Technical Solutions Platform | Laravel, Vue.js, MySQL |
+| **Tacos Capital** | [🔗 Visit](https://tacoscapital.online) | Restaurant Management System | Flutter, Firebase, GCP |
+
+</div>
+
+---
+
+## 💻 Technology Stack & Skills
+
+### 🔥 **Core Competencies**
+
+<div align="center">
+
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-Expert-00d9ff?style=for-the-badge&logo=code&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Advanced-00d9ff?style=for-the-badge&logo=cloud&logoColor=white)
+![AI & Automation](https://img.shields.io/badge/AI_&_Automation-Specialist-00d9ff?style=for-the-badge&logo=robot&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Professional-00d9ff?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🔧 **Programming Languages**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</div>
+
+### 🌐 **Frontend Technologies**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Expert-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Advanced-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-Advanced-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+### ⚙️ **Backend & APIs**
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+### ☁️ **Cloud & DevOps**
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Advanced-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+### 🗄️ **Databases & Storage**
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-Advanced-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Intermediate-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+</div>
+
+### 🤖 **AI & Automation Tools**
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-Expert-6366F1?style=for-the-badge&logo=integromat&logoColor=white)
+![VAPI AI](https://img.shields.io/badge/VAPI_AI-Advanced-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Expert-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### 🛠️ **Development Tools**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Advanced-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-Advanced-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+
+### 📈 **Contribution Overview**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseBohorquez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+### 🔥 **Coding Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseBohorquez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+### 💻 **Language Distribution**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBohorquez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JoseBohorquez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseBohorquez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+---
+
+## 🎯 Professional Goals & Roadmap 2024-2025
+
+<div align="center">
+
+```mermaid
+timeline
+    title Professional Development Roadmap
+    
+    Q1 2024 : AI & Machine Learning
+            : Computer Vision Research
+            : Advanced Python Libraries
+    
+    Q2 2024 : Mobile Development
+            : Flutter Mastery
+            : Cross-platform Solutions
+    
+    Q3 2024 : Web3 & Blockchain
+            : Smart Contracts
+            : DeFi Applications
+    
+    Q4 2024 : Big Data & Analytics
+            : Data Science Specialization
+            : ML Model Deployment
+```
+
+</div>
+
+### 🚀 **Key Focus Areas**
+- 🤖 **AI & Machine Learning**: Deep dive into automation and intelligent systems
+- 🔍 **Computer Vision & NLP**: Research and practical applications
+- 📱 **Advanced Mobile Development**: Flutter expertise and cross-platform solutions
+- 🌐 **Web3 & Blockchain**: Exploring decentralized applications and smart contracts
+- 📊 **Big Data & Data Science**: Specialization in analytics and ML model deployment
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### 📫 **Let's Build Something Amazing Together!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josebohorquez)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josebohorquez)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.bohorquez@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://code2355.online)
+
+### 💬 **Available for:**
+- 🚀 **Freelance Projects** | 🤝 **Collaborations** | 💼 **Full-time Opportunities**
+- 🎯 **Technical Consulting** | 📚 **Mentoring** | 🗣️ **Speaking Engagements**
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+**If you find my projects helpful, consider supporting my work! ☕**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/josebohorquez)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yosefstrong)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/josebohorquez)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 "Si puedes imaginarlo, puedes programarlo" 💻
+### 💭 *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."* 
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoseBohorquez&color=brightgreen)
+**🌟 Transforming Ideas into Digital Reality | One Line of Code at a Time 🌟**
+
+---
+
+**⭐ Star my repositories if you find them useful!**  
+**🔔 Follow for updates on my latest projects and tech insights**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
