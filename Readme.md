@@ -22,6 +22,9 @@
 | 🎯 **Focus Areas** | 📊 **Impact** | 🚀 **Expertise** |
 |:--:|:--:|:--:|
 | AI & Automation | 40% Ticket Reduction | 5+ Years Experience |
+| Infrastructure & Systems | Linux/Windows Servers | Expert Administration |
+| Cybersecurity & Security | Google Certified | Security Analysis & OWASP |
+| Contact Center Solutions | Genesys Cloud Platform | Call Center Optimization |
 | Cloud Architecture | 35+ Websites Built | Multi-Cloud Certified |
 | Team Leadership | 30% Productivity Boost | Agile Methodologies |
 
@@ -47,7 +50,10 @@ graph LR
 - 🤖 **AI-Powered Automation**: Developed conversational bots with **Genesys Cloud**, **WhatsApp**, and **VAPI AI**, achieving **40% reduction** in GLPI tickets
 - 📊 **Process Optimization**: Automated workflows using **n8n**, **Make**, and **Python**, integrated with **Active Directory** and **Moodle**
 - 🏗️ **Scalable Architecture**: Delivered **10+ enterprise applications** and **35+ websites** for corporate and government clients
-- ☁️ **Cloud Excellence**: Managed **Linux servers**, **AWS**, **Azure**, and **GCP** with **Docker** and **Kubernetes** deployments
+- ☁️ **Infrastructure Excellence**: Managed **Linux/Windows servers**, **AWS**, **Azure**, and **GCP** with **Docker** and **Kubernetes** deployments
+- 🔐 **Security Excellence**: **Google Cybersecurity Certified** specialist implementing secure development practices with **SonarQube**, **OWASP** standards, and security analysis
+- 📞 **Contact Center Solutions**: Expert administration of **Genesys Cloud** platform, call center optimization, and customer experience enhancement
+- 🖥️ **Systems Administration**: Complete management of **on-premise** and **cloud infrastructure**, including **Active Directory**, **VMware**, and **Proxmox**
 - 👥 **Technical Leadership**: Led teams of 5 developers, achieving **+30% productivity** through agile methodologies
 
 ---
@@ -113,6 +119,9 @@ Role_Focus:
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Advanced-00d9ff?style=for-the-badge&logo=cloud&logoColor=white)
 ![AI & Automation](https://img.shields.io/badge/AI_&_Automation-Specialist-00d9ff?style=for-the-badge&logo=robot&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Professional-00d9ff?style=for-the-badge&logo=docker&logoColor=white)
+![Infrastructure & Systems](https://img.shields.io/badge/Infrastructure_&_Systems-Expert-00d9ff?style=for-the-badge&logo=server&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Certified-00d9ff?style=for-the-badge&logo=shield&logoColor=white)
+![Contact Center Solutions](https://img.shields.io/badge/Contact_Center_Solutions-Specialist-00d9ff?style=for-the-badge&logo=phone&logoColor=white)
 
 </div>
 
@@ -157,6 +166,20 @@ Role_Focus:
 
 </div>
 
+### 🖥️ **Infrastructure & Systems Administration**
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Expert-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Advanced-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-Advanced-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-Advanced-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Advanced-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-Advanced-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
 ### ☁️ **Cloud & DevOps**
 <div align="center">
 
@@ -167,6 +190,31 @@ Role_Focus:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Intermediate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Expert-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Advanced-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+</div>
+
+### 📞 **Contact Center & Communication Platforms**
+<div align="center">
+
+![Genesys Cloud](https://img.shields.io/badge/Genesys_Cloud-Expert-FF6B35?style=for-the-badge&logo=genesys&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-Expert-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-Advanced-1E88E5?style=for-the-badge&logo=glpi&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-Advanced-FF7800?style=for-the-badge&logo=moodle&logoColor=white)
+![VAPI AI](https://img.shields.io/badge/VAPI_AI-Advanced-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+
+</div>
+
+### 🔐 **Cybersecurity & Security**
+<div align="center">
+
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Security Analysis](https://img.shields.io/badge/Security_Analysis-Expert-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Advanced-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-Advanced-006400?style=for-the-badge&logo=cisco&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-Advanced-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Advanced-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 </div>
 
